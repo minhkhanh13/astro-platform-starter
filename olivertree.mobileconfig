@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>YouTube WebClip Fix Reset - iOS 12</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<false/>
+			<key>Icon</key>
+			<data>
+/9j/4AAQSkZJRgABAQAASABIAAD/4QF0RXhpZgAATU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAADZADAAIAAAAUAAAAvJAEAAIAAAAUAAAA0JAQAAIAAAAHAAAA5JARAAIAAAAHAAAA7JASAAIAAAAHAAAA9JJ8AAcAAAA+AAAA/JKGAAcAAAAyAAABOpKQAAIAAAAEMjI5AJKRAAIAAAAEMjI5AJKSAAIAAAAEMjI5AKABAAMAAAABAAEAAKACAAQAAAABAAAA5qADAAQAAAABAAAA5gAAAAAyMDIyOjA0OjAyIDAxOjAyOjAxADIwMjI6MDQ6MDIgMDE6MDI6MDEALTA0OjAwAAAtMDQ6MDAAAC0wNDowMAAAQXBwbGUgaU9TAAABTU0AAQAWAAIAAAAdAAAAIAAAAABBYmIyMEZkTHM3Y3dVZ2t3Mm5JeEtyNmMxV0xJAABBU0NJSQAAADEuMjEtMjJELVpVQTRWMkxONlY3TE1ZMkhWWUEzNUtYM0ZFLjAuMi0wAP/tADhQaG90b3Nob3AgMy4wADhCSU0EBAAAAAAAADhCSU0EJQAAAAAAENQdjNmPALIE6YAJmOz4Qn7/wAARCADmAOYDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKrobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9sAQwACAgICAgIDAgIDBAMDAwQFBAQEBAUHBQUFBQUHCAcHBwcHBwgICAgICAgICgoKCgoKCwsLCwsNDQ0NDQ0NDQ0N/9sAQwECAgIDAwMGAwMGDQkHCQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0N/9sAQwIBAgIDAwMGAwMGDQkHCQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0N/9sAQwECAgIDAwMGAwMGDQkHCQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0N/80ABAAI/9oADAMBAAIRAxEAPwD9/KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//Z
+			</data>
+			<key>IsRemovable</key>
+			<true/>
+			<key>IgnoreManifestScope</key>
+			<false/>
+			<key>Label</key>
+			<string>YouTube</string>
+			<key>PayloadDescription</key>
+			<string>YouTube WebClip optimized for iOS 12</string>
+			<key>PayloadDisplayName</key>
+			<string>YouTube Fixed</string>
+			<key>PayloadIdentifier</key>
+			<string>com.youtube.webclip.fixed</string>
+			<key>PayloadOrganization</key>
+			<string>Custom</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>983C1B75-0289-4454-91CF-B5745EF2A560</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>https://m.youtube.com/</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>YouTube WebClip optimized for iOS 12</string>
+	<key>PayloadDisplayName</key>
+	<string>YouTube Fixed</string>
+	<key>PayloadIdentifier</key>
+	<string>com.youtube.webclip.fixed</string>
+	<key>PayloadOrganization</key>
+	<string>Custom</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>983C1B75-0289-4454-91CF-B5745EF2A560</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
